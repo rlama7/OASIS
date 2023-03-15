@@ -31,8 +31,3 @@ Built using the best practices of modern software engineering processes such as 
 6. Shawn       Developer
 ```
 
-## Connection Endpoint
-
-```
-bit.ly/oasislisting
-```
